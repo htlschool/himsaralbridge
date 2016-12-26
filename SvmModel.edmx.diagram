@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="877692b740334132baa08ef0834ce751" Name="Diagram1">
+        <EntityTypeShape EntityType="shimlaModel.tb_class" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_classexam" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_contact" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_course" Width="1.5" PointX="2.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_eventmaster" Width="1.5" PointX="4.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_exam" Width="1.5" PointX="4.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_gamemaster" Width="1.5" PointX="6.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_item" Width="1.5" PointX="2.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_itemprice" Width="1.5" PointX="6.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_login" Width="1.5" PointX="4.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_offlinefeebankdetails" Width="1.5" PointX="6.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_quantity" Width="1.5" PointX="8.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_sankul" Width="1.5" PointX="8.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_school" Width="1.5" PointX="8.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_schoolgamedetails" Width="1.5" PointX="0.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_schoolregisetr" Width="1.5" PointX="2.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_schoolstrength" Width="1.5" PointX="10.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_studentdetails" Width="1.5" PointX="10.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_subitem" Width="1.5" PointX="4.75" PointY="10.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.RegisterSchool" Width="1.5" PointX="10.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_itemorder" Width="1.5" PointX="6.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_note" Width="1.5" PointX="8.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_schoolcourse" Width="1.5" PointX="10.75" PointY="11.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_soprtstudent" Width="1.5" PointX="12.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.tb_studentmaster" Width="1.5" PointX="12.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="shimlaModel.checking" Width="1.5" PointX="3.375" PointY="13.75" />
+        <EntityTypeShape EntityType="shimlaModel.Itemmaster" Width="1.5" PointX="13.75" PointY="13.75" />
+        <EntityTypeShape EntityType="shimlaModel.LedgerMaster" Width="1.5" PointX="0.75" PointY="14.75" />
+        <EntityTypeShape EntityType="shimlaModel.Samitimaster" Width="1.5" PointX="9.75" PointY="14.75" />
+        <EntityTypeShape EntityType="shimlaModel.Suppliermaster" Width="1.5" PointX="15.75" PointY="0.75" />
+        <EntityTypeShape EntityType="shimlaModel.Unitmaster" Width="1.5" PointX="15.75" PointY="5.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
